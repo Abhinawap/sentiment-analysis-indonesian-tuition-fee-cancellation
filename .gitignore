@@ -1,0 +1,16 @@
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Models and Data
+*.pkl
+*.csv
+*.tsv
+
+# OS files
+.DS_Store
+
+# Colab/Google Drive artifacts
+*.json
+sample_data/
